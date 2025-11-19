@@ -1,3 +1,7 @@
+libnss-mapuser (1.1.0-cl3u3.2) RELEASED; urgency=medium
+
+  * Package rename for dependency management purposes.
+
 vyos-libnss-mapuser (1.1.0-cl3u3.1) RELEASED; urgency=medium
 
   * Package rename for dependency management purposes.
